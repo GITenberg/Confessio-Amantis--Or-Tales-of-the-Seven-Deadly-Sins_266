@@ -1,5 +1,8 @@
 _repo: Confessio-Amantis--Or-Tales-of-the-Seven-Deadly-Sins_266
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gower, John
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '151'
     url: http://www.gutenberg.org/2009/agents/151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/266#Confessio-Amantis--Or-Tales-of-the-Seven-Deadly-Sins
 gutenberg_issued: '2008-07-03'
 gutenberg_type: Text
 identifiers:
